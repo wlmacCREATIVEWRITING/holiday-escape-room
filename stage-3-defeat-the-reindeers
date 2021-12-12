@@ -1,0 +1,46 @@
+<iframe width="0" height="0" src='https://www.youtube.com/embed/SdtYNDcb8eE?start=0&autoplay=1' title="YouTube video player" frameborder="0" allow="autoplay"></iframe>
+
+<div class="workshopBackground"></div>
+
+<div class="header">
+  <a>Stage 3: Defeat the Reindeers</a>
+</div> 
+
+<div class="form">
+  <br>  
+  <iframe style="align: center;" src="https://docs.google.com/forms/d/e/1FAIpQLSfycG7KgSzWkmSMs6bUJz61kZmY5ggxIC8Poqo6m3dE51KHZQ/viewform?embedded=true" width="700" height="3900" frameborder="0"  scrolling="no">Loading…</iframe>
+</div>
+
+<style>
+  body{  
+  background:url(https://cdn.staticcrate.com/stock-hd/effects/slow-falling-vertically-and-wiggling-prev-full.png), 
+  url('https://img1.goodfon.com/wallpaper/nbig/0/40/workshop-zavod-fon.jpg');
+  height:1000px;
+  }
+
+  .header{
+  margin-left: auto; 
+  margin-right: auto; 
+  margin-top: 30px;
+  margin-bottom: 80px;
+  
+  width: 500px;
+  outline: 10px double;
+  outline-offset: 5px;
+  text-align: center;
+
+  color:white;
+  font-family: "Fantasy", papyrus, serif;  
+  font-size: 60px;
+  text-shadow: 2px 2px brown;
+  }
+  
+  .form{
+  margin-left: auto; 
+  margin-right: auto;
+  width: 700px;
+  border: 5px dotted white;
+  border-radius: 5px;
+  }
+
+</style>
